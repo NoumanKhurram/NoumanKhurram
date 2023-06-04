@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">👋 Hi, I'm Nouman</h1>
-<h3 align="center"> A passionate Full stack developer experienced in delivering solutions from POC to finished scalable product in the areas of remote monitoring, BMS, call centre applications, energy management, connectivity management, event driven smart workflows and frameworks/eco systems for IOT (Internet of Things)</h3>
+<p align="center"> A passionate Full stack developer experienced in delivering solutions from POC to finished scalable product in the areas of remote monitoring, BMS, call centre applications, energy management, connectivity management, event driven smart workflows and frameworks/eco systems for IOT (Internet of Things)</p>
 <br/>
 
 ## 🔭 INTERESTS:
