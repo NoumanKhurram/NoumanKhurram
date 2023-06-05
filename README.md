@@ -41,14 +41,26 @@
 </p>
 <br/>
 
-![Nouman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoumanKhurram&show_icons=true&theme=gruvbox)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoumanKhurram&theme=gruvbox)
+<details>
+<p align="center">
+  <a href="https://github.com/NoumanKhurram">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoumanKhurram&theme=transparent" />
+  </a>
+  <a href="https://github.com/NoumanKhurram">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoumanKhurram&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/NoumanKhurram">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NoumanKhurram&theme=transparent" />
+  </a>
+  <a href="https://github.com/NoumanKhurram">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoumanKhurram&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
 
 ### 📬 React me at:
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nouman-khurram/)](https://www.linkedin.com/in/nouman-khurram)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nomankhurram@gmail.com)](mailto:nomankhurram@gmail.com)
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=noumankhurram&label=Profile%20views&color=0e75b6&style=flat" alt="noumankhurram" /> </p>
