@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">👋 Hi, I'm Nouman</h1>
-<p align="center"> A passionate Full stack developer experienced in delivering solutions from POC to finished scalable product in the areas of remote monitoring, BMS, call centre applications, energy management, connectivity management, event driven smart workflows and frameworks/eco systems for IOT (Internet of Things)</p>
+<p align="center"> Passionate Full Stack Developer and Agile Scrum Master experienced in delivering end-to-end solutions. Skilled in leading teams and implementing Agile methodologies for efficient project management. Expertise in remote monitoring, BMS, call center apps, energy management, connectivity, event-driven workflows, and IoT frameworks.
 <br/>
 
 ## 🔭 INTERESTS:
