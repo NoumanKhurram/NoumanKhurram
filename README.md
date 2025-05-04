@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+![NK](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">👋 Hi, I'm Nouman</h1>
 <p align="center"> Passionate Full Stack Developer and Agile Scrum Master experienced in delivering end-to-end solutions. Skilled in leading teams and implementing Agile methodologies for efficient project management. Expertise in remote monitoring, BMS, call center apps, energy management, connectivity, event-driven workflows, and IoT frameworks.
 <br/>
